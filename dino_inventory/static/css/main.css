@@ -1,0 +1,42 @@
+/* NavBar */
+.link {
+    color: green;
+}
+
+#nav-logo{
+    padding-left: 30px;
+    color: green;
+}
+
+#button1{
+    padding-right: 20px;
+}
+
+
+/* Website Background */
+body{
+    background-image: url(../../static/images/landscape-background\ 1.jpg);
+    background-size: 100%;
+    position: relative;
+}
+
+/* Main Page Content */
+#carouselExampleCaptions{
+    margin: 10%;
+}
+
+/* Footer Styling */
+footer{
+    margin-top: 50px;
+    color: black;
+}
+
+footer img{
+    width: 30%;
+    padding-left: 5%;
+    margin-left: 70%
+}
+
+#footer-text{
+    padding-left: 10%;
+}
